@@ -1,0 +1,43 @@
+body{
+	background-color: #3F396F;
+}
+ul, li{
+	width: 400px;
+	height: 25px;
+	font-size: 16px;
+	font-weight: 600;
+	text-align: center;
+	cursor: pointer;
+	border-radius: 15px;
+	padding: 5px 0px;
+	margin: 10px 0px;
+	transition: all 0.5s ease-in;
+}
+.btn-red{
+	border: 2px solid #F0514E;
+	color: #F0514E;
+}
+.btn-red:hover{
+	box-shadow: #F0514E 100px 0 0 2px inset;
+}
+.btn-green{
+	border: 2px solid #31c22f;
+	color: #31c22f;
+}
+.btn-green:hover{
+	box-shadow: #31c22f 100px 0 0 2px inset;
+}
+.btn-yellow{
+	border: 2px solid #e8fa20;
+	color: #e8fa20;
+}
+.btn-yellow:hover{
+	box-shadow: #e8fa20 100px 0 0 2px inset;
+}
+.btn-pink{
+	border: 2px solid #f026c4;
+	color: #f026c4;
+}
+.btn-pink:hover{
+	box-shadow: #f026c4 100px 0 0 2px inset;
+}
